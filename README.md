@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**DevasivaBA/DevasivaBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Deva, a Master's student at the University of Scranton. With over 7 years of professional experience in various Analyst roles, I am currently on a journey to become a Big Data Engineer.
 
-Here are some ideas to get you started:
+#### 🔧 Skills & Technologies
+- PySpark
+- SQL
+- NoSQL
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always eager to learn and contribute, I am actively exploring the latest tools and skills required to excel in the field of Data Engineering. Currently focusing on PySpark, SQL, NoSQL, and Python.
+
+Looking forward to connecting with fellow enthusiasts and contributing to open-source projects related to Data Engineering!
+
