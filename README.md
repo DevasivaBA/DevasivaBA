@@ -1,14 +1,9 @@
-### Hi there 👋
+👋 Hi, I'm Deva, a Master's student at the University of Scranton with 8+ years of experience as a Data Scientist & Analyst.
 
-I am Deva, a Master's student at the University of Scranton. With over 7 years of professional experience in various Analyst roles, I am currently on a journey to become a Big Data Engineer.
+🚀 Passionate about turning data into insights.
 
-#### 🔧 Skills & Technologies
-- PySpark
-- SQL
-- NoSQL
-- Python
+🛠️ My toolkit: PySpark | SQL | NoSQL | Python | R | Machine Learning | Deep Learning | AWS | GCP | Azure | TensorFlow | Power BI | Tableau
 
-Always eager to learn and contribute, I am actively exploring the latest tools and skills required to excel in the field of Data Engineering. Currently focusing on PySpark, SQL, NoSQL, and Python.
+🎯 Currently exploring cutting-edge data science tools and techniques.
 
-Looking forward to connecting with fellow enthusiasts and contributing to open-source projects related to Data Engineering!
-
+🤝 Open to collaboration on data-driven projects. Let's connect!
